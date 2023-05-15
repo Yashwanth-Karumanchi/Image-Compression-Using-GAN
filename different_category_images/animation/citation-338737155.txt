@@ -1,0 +1,8 @@
+TY  - BOOK
+AU  - Wu, Lirong
+AU  - Huang, Kejie
+AU  - Shen, Haibin
+PY  - 2020/01/17
+SP  - 
+T1  - A GAN-based Tunable Image Compression System
+ER  - 
