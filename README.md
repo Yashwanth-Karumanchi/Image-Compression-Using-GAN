@@ -1,5 +1,5 @@
 # Image-Compression-Using-GAN
-A Generative Adversarial Network Architecture based techniques to compress images and check for the most efficient compression rate
+A Generative Adversarial Network Architecture based technique to compress images and decrease transmission data while maintaining the clarity and quality of the images.
 
 Given the success of GANs in image generation, it is reasonable to explore their potential for image compression. If successful, GAN-based compression techniques could provide an alternative to traditional compression techniques, offering high compression rates while preserving image quality. Furthermore, GAN-based compression could also allow for more efficient transmission of visual data, making it possible to transmit larger amounts of data over networks with limited bandwidth.
 
