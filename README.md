@@ -23,6 +23,8 @@ Potential for customized compression: These findings suggest that GAN-based imag
 
 Practical implications: The study demonstrates the importance of tailoring image compression techniques to the specific characteristics of image categories. By identifying the most suitable compression ratios for different types of images, the study provides insights for developers, researchers, and practitioners working on image compression systems. This knowledge can guide the development of specialized compression algorithms and tools for various applications, including anime platforms, astronomical data analysis, satellite imagery, and scenic photography.
 
+PS. If you want to understand a quick working of the model, please clone the repo and run the model_testing.gans.ipynb in colab while carefully setting the paths for the models. This will show you how our model works and you can even save the compressed images. Thank You!!!
+
 Example for Compression effects on Lena Image:
 ![image](https://github.com/Yashwanth-Karumanchi/Image-Compression-Using-GAN/assets/75605054/67b77ade-8a27-4526-aac9-3097efc3b073)
 ![image](https://github.com/Yashwanth-Karumanchi/Image-Compression-Using-GAN/assets/75605054/aeca0c8e-45bb-439f-a8fe-2ca0c6aa98a9)
